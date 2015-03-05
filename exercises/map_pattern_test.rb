@@ -1,7 +1,6 @@
 gem 'minitest'
 require 'minitest/autorun'
 require 'minitest/pride'
-require 'pry'
 
 class MapPatternTest < Minitest::Test
 
@@ -18,56 +17,51 @@ class MapPatternTest < Minitest::Test
     numbers = [1, 2, 3, 4, 5]
     doubles = []
     numbers.each do |number|
-      doubles << number * 2
+      # Your code goes here
     end
     assert_equal [2, 4, 6, 8, 10], doubles
   end
 
   def test_squares
+    skip
     numbers = [1, 2, 3, 4, 5]
     squares = []
-    numbers.each do |number|
-      squares << number * number
-    end
+    # Your code goes here
     assert_equal [1, 4, 9, 16, 25], squares
   end
 
   def test_lengths
-    lengths = []
+    skip
     names = ["alice", "bob", "charlie", "david", "eve"]
-    names.each {|name| lengths << name.size}
+    # Your code goes here
     assert_equal [5, 3, 7, 5, 3], lengths
   end
 
   def test_normalize_zip_codes
-    zip_codes = []
+    skip
     numbers = [234, 10, 9119, 38881]
-    numbers.each do |number|
-      zip_codes << number.to_s.rjust(5, "0")
-    end
+    # Your code goes here
     assert_equal ["00234", "00010", "09119", "38881"], zip_codes
   end
 
   def test_backwards
-    backwards = []
+    skip
     names = ["alice", "bob", "charlie", "david", "eve"]
-    names.each {|name| backwards << name.reverse}
+    # Your code goes here
     assert_equal ["ecila", "bob", "eilrahc", "divad", "eve"], backwards
   end
 
   def test_words_with_no_vowels
-    without_vowels = []
+    skip
     words = ["green", "sheep", "travel", "least", "boat"]
-    words.each do |word|
-      without_vowels << word.delete('aeiouy')
-    end
+    # Your code goes here
     assert_equal ["grn", "shp", "trvl", "lst", "bt"], without_vowels
   end
 
   def test_trim_last_letter
-    trimmed = []
+    skip
     animals = ["dog", "cat", "mouse", "frog", "platypus"]
-    animals.each {|animal| trimmed << animal.chop}
+    # Your code goes here
     assert_equal ["do", "ca", "mous", "fro", "platypu"], trimmed
   end
 
