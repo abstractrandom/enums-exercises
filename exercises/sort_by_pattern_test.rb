@@ -53,23 +53,31 @@ class SortByPatternTest < Minitest::Test
     words.each do |word|
       transformed << [word.length, word]
     end
-    transformed.sort
+    transformed = transformed.sort
     sorted = []
     transformed.each {|key, word| sorted << word}
     assert_equal ["bug", "heteromorph", "mathematical", "ancyloceratina", "bioengineering"], sorted
   end
 
   def test_sort_by_proximity_to_ten
-    skip
     prices = [3.02, 9.91, 17.9, 10.01, 11.0]
-    # Your code goes here
+    transformed = []
+    prices.each {|price| transformed << [(10 - price).abs, price]}
+    transformed = transformed.sort
+    sorted = []
+    transformed.each {|key, price| sorted << price}
     assert_equal [10.01, 9.91, 11.0, 3.02, 17.9], sorted
   end
 
   def test_sort_by_number_of_cents
-    skip
     prices = [3.02, 9.91, 7.9, 10.01, 11.0]
-    # Your code goes here
+    transformed = []
+    prices.each do |price|
+      transformed << [price - price.floor, price]
+    end
+    transformed = transformed.sort
+    sorted = []
+    transformed.each {|key, price| sorted << price}
     assert_equal [11.0, 10.01, 3.02, 7.9, 9.91], sorted
   end
 
