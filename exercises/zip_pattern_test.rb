@@ -19,7 +19,7 @@ class ZipPatternTest < Minitest::Test
     list2 = [29, 23, 26]
     prices = []
     list1.length.times do |i|
-      # Your code goes here
+      prices << 
     end
     assert_equal [["NY Strip Steak", 29], ["Lamb Stew", 23], ["Grilled Salmon", 26]], prices
   end
