@@ -15,56 +15,64 @@ class FindTest < Minitest::Test
   def test_no_waldo
     words = ["scarf", "sandcastle", "flag", "pretzel", "crow", "key"]
     found = words.find do |word|
-      word == "waldo"
+      # Your code goes here
     end
     assert_equal nil, found
   end
 
   def test_find_waldo
+    skip
     words = ["noise", "dog", "fair", "house", "waldo", "bucket", "fish"]
-    found = words.find {|word| word == "waldo"}
+    # Your code goes here
     assert_equal "waldo", found
   end
 
   def test_cannot_find_3_letter_words
+    skip
     words = ["piglet", "porridge", "bear", "blueberry"]
-    found = words.find {|word| word.size == 3}
+    # Your code goes here
     assert_equal nil, found
   end
 
   def test_find_13
+    skip
     numbers = [2, 13, 19, 8, 3, 27]
-    found = numbers.find {|number| number == 13}
+    # Your code goes here
     assert_equal 13, found
   end
 
   def test_find_first_even_number
+    skip
     numbers = [3, 7, 13, 11, 10, 2, 17]
-    found = numbers.find {|number| number.even?}
+    # Your code goes here
     assert_equal 10, found
   end
 
   def test_find_first_multiple_of_3
+    skip
     numbers = [2, 8, 9, 27, 24, 5]
-    found = numbers.find {|number| number % 3 == 0}
+    # Your code goes here
     assert_equal 9, found
   end
 
   def test_find_first_word_starting_with_q
+    skip
     words = ["weirdo", "quill", "fast", "quaint", "quitter", "koala"]
-    found = words.find {|word| word[0] == 'q'}
+    # Your code goes here
     assert_equal "quill", found
   end
 
   def test_find_first_word_ending_with_er
+    skip
     words = ["biggest", "pour", "blight", "finger", "pie", "border"]
-    found = words.find {|word| word.end_with?('er')}
+    # Your code goes here
     assert_equal "finger", found
   end
 
   def test_find_first_number_greater_than_20
+    skip
     numbers = [1, 8, 19, 21, 29, 31, 34]
-    found = numbers.find {|num| num > 20}
+    # Your code goes here
     assert_equal 21, found
   end
 

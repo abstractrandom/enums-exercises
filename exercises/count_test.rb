@@ -15,44 +15,50 @@ class CountTest < Minitest::Test
   def test_count_numbers_greater_than_17
     numbers = [9, 18, 12, 17, 1, 3, 99]
     tally = numbers.count do |number|
-      number > 17
+      # Your code goes here
     end
     assert_equal 2, tally
   end
 
   def test_count_words_that_are_uppercase
+    skip
     words = ["trousers", "SOCKS", "sweater", "Cap", "SHOE", "TIE"]
-    tally = words.count {|word| word.upcase == word}
+    # Your code goes here
     assert_equal 3, tally
   end
 
   def test_count_words_ending_in_ing
+    skip
     words = ["thought", "brake", "shin", "juice", "trash"]
-    tally = words.count {|word| word.end_with?'ing'}
+    # Your code goes here
     assert_equal 0, tally
   end
 
   def test_count_even_numbers
+    skip
     numbers = [9, 2, 1, 3, 18, 39, 71, 4, 6]
-    tally = numbers.count {|number| number.even?}
+    # Your code goes here
     assert_equal 4, tally
   end
 
   def test_count_multiples_of_5
+    skip
     numbers = [2, 5, 19, 25, 35, 67]
-    tally = numbers.count{|number| number % 5 == 0}
+    # Your code goes here
     assert_equal 3, tally
   end
 
   def test_count_round_prices
+    skip
     prices = [1.0, 3.9, 5.99, 18.5, 20.0]
-    tally = prices.count {|price| price - price.floor == 0}
+    # Your code goes here
     assert_equal 2, tally
   end
 
   def test_count_four_letter_words
+    skip
     words = ["bake", "bark", "corn", "apple", "wart", "bird", "umbrella", "fart"]
-    tally = words.count {|word| word.size == 4}
+    # Your code goes here
     assert_equal 6, tally
   end
 

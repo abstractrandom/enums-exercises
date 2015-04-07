@@ -17,17 +17,15 @@ class AllPatternTest < Minitest::Test
     numbers = [0, 0, 0, 0, 1, 0, 0, 0]
     all_zeros = true
     numbers.each do |number|
-      all_zeros = false unless number == 0
-      # Your code goes here
+      all_zeros = false unless number.zero?
     end
     refute all_zeros
   end
 
   def test_all_gone
     words = ["gone", "gone", "gone", "gone", "gone", "gone", "gone"]
-    all_gone = false
+    all_gone = true
     words.each {|word| all_gone = true if word == "gone"}
-    # Your code goes here
     assert all_gone
   end
 
@@ -48,7 +46,9 @@ class AllPatternTest < Minitest::Test
   def test_not_all_empty
     strings = ["", "", "", "full", "", "", ""]
     all_empty = true
-    strings.each {|string| all_empty = false unless string.empty?}
+    strings.each do |word|
+      all_empty = false unless word.empty?
+    end
     refute all_empty
   end
 
@@ -62,14 +62,18 @@ class AllPatternTest < Minitest::Test
   def test_all_lies
     lies = [false, false, false, false]
     all_lies = false
-    lies.each {|boo| all_lies = true if boo == false}
+    lies.each do |boo|
+      all_lies = true if boo == false
+    end
     assert all_lies
   end
 
   def test_all_multiples_of_7
     numbers = [42, 14, 35, 49, 28, 56, 21, 7]
     all_multiples_of_7 = false
-    numbers.each {|number| all_multiples_of_7 = true if number % 7 == 0}
+    numbers.each do |number|
+      all_multiples_of_7 = true if number & 7 == 0
+    end
     assert all_multiples_of_7
   end
 

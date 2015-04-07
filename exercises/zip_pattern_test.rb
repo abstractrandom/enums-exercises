@@ -19,16 +19,17 @@ class ZipPatternTest < Minitest::Test
     list2 = [29, 23, 26]
     prices = []
     list1.length.times do |i|
-      prices << [list1[i], list2[i]]
+      # Your code goes here
     end
     assert_equal [["NY Strip Steak", 29], ["Lamb Stew", 23], ["Grilled Salmon", 26]], prices
   end
 
   def test_lottery_tickets
+    skip
     list1 = ["Alice", "Bob", "Charlie"]
     list2 = [298, 166, 237]
     tickets = []
-    list1.length.times {|e| tickets << [list1[e], list2[e]]}
+    # Your code goes here
     assert_equal [["Alice", 298], ["Bob", 166], ["Charlie", 237]], tickets
   end
 

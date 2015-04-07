@@ -15,8 +15,7 @@ class AllTest < Minitest::Test
   def test_not_all_zeros
     numbers = [0, 0, 0, 0, 1, 0, 0, 0]
     all_zeros = numbers.all? do |number|
-      number == 0
-      # Your code goes here
+      number.zero?
     end
     refute all_zeros
   end
@@ -53,7 +52,7 @@ class AllTest < Minitest::Test
 
   def test_all_lies
     lies = [false, false, false, false]
-    all_lies = lies.all? {|boo| boo == false}
+    all_lies = lies.all? {|lie| lie == false}
     assert all_lies
   end
 
@@ -65,7 +64,7 @@ class AllTest < Minitest::Test
 
   def test_not_all_3_digits_long
     numbers = [981, 831, 509, 332, 892, 8999, 110]
-    all_3_digits = numbers.all? {|number| number.size == 3}
+    all_3_digits = numbers.all? {|num| num.size == 3}
     refute all_3_digits
   end
 
