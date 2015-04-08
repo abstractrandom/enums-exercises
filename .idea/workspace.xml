@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e238a4b8-3419-430b-90e4-6844a675c851" name="Default" comment="">
+    <list default="true" id="e238a4b8-3419-430b-90e4-6844a675c851" name="Default" comment="two more down">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/count_pattern_test.rb" afterPath="$PROJECT_DIR$/exercises/count_pattern_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/count_test.rb" afterPath="$PROJECT_DIR$/exercises/count_test.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/enums-exercises.iml" afterPath="$PROJECT_DIR$/.idea/enums-exercises.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/group_by_pattern_test.rb" afterPath="$PROJECT_DIR$/exercises/group_by_pattern_test.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/group_by_test.rb" afterPath="$PROJECT_DIR$/exercises/group_by_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/find_pattern_test.rb" afterPath="$PROJECT_DIR$/exercises/find_pattern_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/find_test.rb" afterPath="$PROJECT_DIR$/exercises/find_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/reduce_pattern_test.rb" afterPath="$PROJECT_DIR$/exercises/reduce_pattern_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/reduce_test.rb" afterPath="$PROJECT_DIR$/exercises/reduce_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/sort_by_pattern_test.rb" afterPath="$PROJECT_DIR$/exercises/sort_by_pattern_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/sort_by_test.rb" afterPath="$PROJECT_DIR$/exercises/sort_by_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/zip_pattern_test.rb" afterPath="$PROJECT_DIR$/exercises/zip_pattern_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/zip_test.rb" afterPath="$PROJECT_DIR$/exercises/zip_test.rb" />
     </list>
     <ignored path="enums-exercises.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -18,50 +26,75 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/enums-exercises@test_multiply_list_of_numbers__enums_exercises.coverage" NAME="test_multiply_list_of_numbers: enums-exercises Coverage Results" MODIFIED="1428524869060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_all_lies__enums_exercises.coverage" NAME="test_all_lies: enums-exercises Coverage Results" MODIFIED="1428359185469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_words_with_more_than_three_letters__enums_exercises__1_.coverage" NAME="test_remove_words_with_more_than_three_letters: enums-exercises (1) Coverage Results" MODIFIED="1428364509370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_none_are_negative__enums_exercises__1_.coverage" NAME="test_none_are_negative: enums-exercises (1) Coverage Results" MODIFIED="1428437722748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_subtract_list_of_numbers__enums_exercises.coverage" NAME="test_subtract_list_of_numbers: enums-exercises Coverage Results" MODIFIED="1428524830938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_none_shall_pass__enums_exercises.coverage" NAME="test_none_shall_pass: enums-exercises Coverage Results" MODIFIED="1428437900142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_all_zeros__enums_exercises__1_.coverage" NAME="test_not_all_zeros: enums-exercises (1) Coverage Results" MODIFIED="1428329340057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_arrays__enums_exercises.coverage" NAME="test_pick_arrays: enums-exercises Coverage Results" MODIFIED="1428363813296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_dinosaurs__enums_exercises.coverage" NAME="test_remove_dinosaurs: enums-exercises Coverage Results" MODIFIED="1428365162004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_equivalent_dna_sequences__enums_exercises.coverage" NAME="test_equivalent_dna_sequences: enums-exercises Coverage Results" MODIFIED="1428525889399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_find_first_number_greater_than_20__enums_exercises.coverage" NAME="test_find_first_number_greater_than_20: enums-exercises Coverage Results" MODIFIED="1428500967799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_add_all_the_second_values_together__enums_exercises.coverage" NAME="test_add_all_the_second_values_together: enums-exercises Coverage Results" MODIFIED="1428525388794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_cannot_find_3_letter_words__enums_exercises.coverage" NAME="test_cannot_find_3_letter_words: enums-exercises Coverage Results" MODIFIED="1428443478576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_all_empty__enums_exercises.coverage" NAME="test_all_empty: enums-exercises Coverage Results" MODIFIED="1428329872763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_numbers__enums_exercises.coverage" NAME="test_remove_numbers: enums-exercises Coverage Results" MODIFIED="1428367053285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_divide_560_by_a_bunch_of_numbers__enums_exercises.coverage" NAME="test_divide_560_by_a_bunch_of_numbers: enums-exercises Coverage Results" MODIFIED="1428525161762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_words_ending_in_e__enums_exercises.coverage" NAME="test_remove_words_ending_in_e: enums-exercises Coverage Results" MODIFIED="1428364543166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_vowels__enums_exercises__1_.coverage" NAME="test_remove_vowels: enums-exercises (1) Coverage Results" MODIFIED="1428364259863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_words_that_are_uppercase__enums_exercises__1_.coverage" NAME="test_count_words_that_are_uppercase: enums-exercises (1) Coverage Results" MODIFIED="1428501352527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_find_first_number_greater_than_20__enums_exercises__1_.coverage" NAME="test_find_first_number_greater_than_20: enums-exercises (1) Coverage Results" MODIFIED="1428501029614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_group_numbers_by_odd_and_even__enums_exercises__1_.coverage" NAME="test_group_numbers_by_odd_and_even: enums-exercises (1) Coverage Results" MODIFIED="1428440509389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_all_3_digits_long__enums_exercises.coverage" NAME="test_not_all_3_digits_long: enums-exercises Coverage Results" MODIFIED="1428359927278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_all_uppercase__enums_exercises.coverage" NAME="test_not_all_uppercase: enums-exercises Coverage Results" MODIFIED="1428359368741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_find_13__enums_exercises.coverage" NAME="test_find_13: enums-exercises Coverage Results" MODIFIED="1428443664692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_sort_alphabetically_by_last_letter__enums_exercises.coverage" NAME="test_sort_alphabetically_by_last_letter: enums-exercises Coverage Results" MODIFIED="1428502761837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_group_numbers_by_odd_and_even__enums_exercises.coverage" NAME="test_group_numbers_by_odd_and_even: enums-exercises Coverage Results" MODIFIED="1428440421921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_group_words_by_first_letter__enums_exercises__1_.coverage" NAME="test_group_words_by_first_letter: enums-exercises (1) Coverage Results" MODIFIED="1428441080755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_lottery_tickets__enums_exercises__1_.coverage" NAME="test_lottery_tickets: enums-exercises (1) Coverage Results" MODIFIED="1428526133780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_sum_a_list_of_numbers__enums_exercises.coverage" NAME="test_sum_a_list_of_numbers: enums-exercises Coverage Results" MODIFIED="1428524332030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_all_empty__enums_exercises__1_.coverage" NAME="test_all_empty: enums-exercises (1) Coverage Results" MODIFIED="1428330421845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_sort_by_distance__enums_exercises.coverage" NAME="test_sort_by_distance: enums-exercises Coverage Results" MODIFIED="1428503096977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_words_containing_e__enums_exercises.coverage" NAME="test_remove_words_containing_e: enums-exercises Coverage Results" MODIFIED="1428364960706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_one_or_more_shall_pass__enums_exercises__1_.coverage" NAME="test_one_or_more_shall_pass: enums-exercises (1) Coverage Results" MODIFIED="1428438160790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_hashes__enums_exercises__1_.coverage" NAME="test_pick_hashes: enums-exercises (1) Coverage Results" MODIFIED="1428363991247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_words_ending_in_ing__enums_exercises__1_.coverage" NAME="test_count_words_ending_in_ing: enums-exercises (1) Coverage Results" MODIFIED="1428501533649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_all_zeros__enums_exercises.coverage" NAME="test_not_all_zeros: enums-exercises Coverage Results" MODIFIED="1428328848512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_does_not_have_any_zeros__enums_exercises.coverage" NAME="test_does_not_have_any_zeros: enums-exercises Coverage Results" MODIFIED="1428435862368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_normalize_zip_codes__enums_exercises__1_.coverage" NAME="test_normalize_zip_codes: enums-exercises (1) Coverage Results" MODIFIED="1428361583211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_sort_by_proximity_to_ten__enums_exercises__1_.coverage" NAME="test_sort_by_proximity_to_ten: enums-exercises (1) Coverage Results" MODIFIED="1428521940859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_none_are_negative__enums_exercises.coverage" NAME="test_none_are_negative: enums-exercises Coverage Results" MODIFIED="1428437661403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_round_prices__enums_exercises__1_.coverage" NAME="test_count_round_prices: enums-exercises (1) Coverage Results" MODIFIED="1428502086514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_all_multiples_of_7__enums_exercises.coverage" NAME="test_all_multiples_of_7: enums-exercises Coverage Results" MODIFIED="1428359547333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_vowels__enums_exercises.coverage" NAME="test_remove_vowels: enums-exercises Coverage Results" MODIFIED="1428364172602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_words_with_more_than_three_letters__enums_exercises.coverage" NAME="test_remove_words_with_more_than_three_letters: enums-exercises Coverage Results" MODIFIED="1428364465820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_floats__enums_exercises__1_.coverage" NAME="test_remove_floats: enums-exercises (1) Coverage Results" MODIFIED="1428367981508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_none_even__enums_exercises__1_.coverage" NAME="test_none_even: enums-exercises (1) Coverage Results" MODIFIED="1428438333602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_sort_by_length__enums_exercises.coverage" NAME="test_sort_by_length: enums-exercises Coverage Results" MODIFIED="1428519468798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_lengths__enums_exercises__1_.coverage" NAME="test_lengths: enums-exercises (1) Coverage Results" MODIFIED="1428361269463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_find_waldo__enums_exercises__1_.coverage" NAME="test_find_waldo: enums-exercises (1) Coverage Results" MODIFIED="1428443223601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_no_waldo__enums_exercises.coverage" NAME="test_no_waldo: enums-exercises Coverage Results" MODIFIED="1428443099586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_hashes__enums_exercises.coverage" NAME="test_remove_hashes: enums-exercises Coverage Results" MODIFIED="1428368243252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_trim_last_letter__enums_exercises__1_.coverage" NAME="test_trim_last_letter: enums-exercises (1) Coverage Results" MODIFIED="1428362125888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_trim_last_letter__enums_exercises.coverage" NAME="test_trim_last_letter: enums-exercises Coverage Results" MODIFIED="1428362093685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_numbers_divisible_by_3__enums_exercises__1_.coverage" NAME="test_remove_numbers_divisible_by_3: enums-exercises (1) Coverage Results" MODIFIED="1428364380855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_menu__enums_exercises__1_.coverage" NAME="test_menu: enums-exercises (1) Coverage Results" MODIFIED="1428526105827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_no_multiples_of_five__enums_exercises__1_.coverage" NAME="test_no_multiples_of_five: enums-exercises (1) Coverage Results" MODIFIED="1428437191927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_words_with_no_vowels__enums_exercises.coverage" NAME="test_words_with_no_vowels: enums-exercises Coverage Results" MODIFIED="1428361792070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_words_containing_e__enums_exercises__1_.coverage" NAME="test_pick_words_containing_e: enums-exercises (1) Coverage Results" MODIFIED="1428363592459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_one_time__enums_exercises__1_.coverage" NAME="test_one_time: enums-exercises (1) Coverage Results" MODIFIED="1428439641980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@Run_test__all_pattern_test___enums_exercises.coverage" NAME="Run test 'all_pattern_test': enums-exercises Coverage Results" MODIFIED="1428359210019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_multiples_of_5__enums_exercises__1_.coverage" NAME="test_count_multiples_of_5: enums-exercises (1) Coverage Results" MODIFIED="1428501824064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_cannot_find_3_letter_words__enums_exercises__1_.coverage" NAME="test_cannot_find_3_letter_words: enums-exercises (1) Coverage Results" MODIFIED="1428443355008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_no_monkeys__enums_exercises.coverage" NAME="test_no_monkeys: enums-exercises Coverage Results" MODIFIED="1428436955549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_floats__enums_exercises.coverage" NAME="test_pick_floats: enums-exercises Coverage Results" MODIFIED="1428363718428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_even_one_ring__enums_exercises.coverage" NAME="test_not_even_one_ring: enums-exercises Coverage Results" MODIFIED="1428438738825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_arrays__enums_exercises__1_.coverage" NAME="test_pick_arrays: enums-exercises (1) Coverage Results" MODIFIED="1428363872705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_dinosaurs__enums_exercises.coverage" NAME="test_pick_dinosaurs: enums-exercises Coverage Results" MODIFIED="1428363539267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_words_ending_in_ing__enums_exercises.coverage" NAME="test_count_words_ending_in_ing: enums-exercises Coverage Results" MODIFIED="1428501415170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_sort_by_number_of_cents__enums_exercises__1_.coverage" NAME="test_sort_by_number_of_cents: enums-exercises (1) Coverage Results" MODIFIED="1428523591299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_none_shall_pass__enums_exercises__1_.coverage" NAME="test_none_shall_pass: enums-exercises (1) Coverage Results" MODIFIED="1428437969931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_group_words_by_first_letter__enums_exercises.coverage" NAME="test_group_words_by_first_letter: enums-exercises Coverage Results" MODIFIED="1428440619040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_words_ending_in_ing__enums_exercises__1_.coverage" NAME="test_pick_words_ending_in_ing: enums-exercises (1) Coverage Results" MODIFIED="1428363475266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
@@ -74,23 +107,33 @@
     <SUITE FILE_PATH="coverage/enums-exercises@test_normalize_zip_codes__enums_exercises.coverage" NAME="test_normalize_zip_codes: enums-exercises Coverage Results" MODIFIED="1428361493258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_has_at_least_one_alice__enums_exercises__1_.coverage" NAME="test_has_at_least_one_alice: enums-exercises (1) Coverage Results" MODIFIED="1428436353713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_odd_numbers__enums_exercises.coverage" NAME="test_pick_odd_numbers: enums-exercises Coverage Results" MODIFIED="1428362578991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_menu__enums_exercises.coverage" NAME="test_menu: enums-exercises Coverage Results" MODIFIED="1428525645209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_find_first_multiple_of_3__enums_exercises.coverage" NAME="test_find_first_multiple_of_3: enums-exercises Coverage Results" MODIFIED="1428448718461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_find_first_even_number__enums_exercises__1_.coverage" NAME="test_find_first_even_number: enums-exercises (1) Coverage Results" MODIFIED="1428448508166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_zeros__enums_exercises.coverage" NAME="test_remove_zeros: enums-exercises Coverage Results" MODIFIED="1428364064924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_squares__enums_exercises.coverage" NAME="test_squares: enums-exercises Coverage Results" MODIFIED="1428361024582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_one_more__enums_exercises.coverage" NAME="test_one_more: enums-exercises Coverage Results" MODIFIED="1428438521636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_hashes__enums_exercises.coverage" NAME="test_pick_hashes: enums-exercises Coverage Results" MODIFIED="1428363920510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_has_at_least_one_alice__enums_exercises.coverage" NAME="test_has_at_least_one_alice: enums-exercises Coverage Results" MODIFIED="1428435932635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_find_waldo__enums_exercises.coverage" NAME="test_find_waldo: enums-exercises Coverage Results" MODIFIED="1428443180366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_arrays__enums_exercises__1_.coverage" NAME="test_remove_arrays: enums-exercises (1) Coverage Results" MODIFIED="1428368288132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_solitaire__enums_exercises.coverage" NAME="test_solitaire: enums-exercises Coverage Results" MODIFIED="1428525958424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_group_by_number_of_zeros__enums_exercises__1_.coverage" NAME="test_group_by_number_of_zeros: enums-exercises (1) Coverage Results" MODIFIED="1428442672502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_no_alices__enums_exercises.coverage" NAME="test_no_alices: enums-exercises Coverage Results" MODIFIED="1428436306996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_dinosaurs__enums_exercises__1_.coverage" NAME="test_remove_dinosaurs: enums-exercises (1) Coverage Results" MODIFIED="1428365377484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_words_with_more_than_three_letters__enums_exercises.coverage" NAME="test_pick_words_with_more_than_three_letters: enums-exercises Coverage Results" MODIFIED="1428362825129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_sort_by_length__enums_exercises__1_.coverage" NAME="test_sort_by_length: enums-exercises (1) Coverage Results" MODIFIED="1428519581005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_all_lies__enums_exercises__1_.coverage" NAME="test_all_lies: enums-exercises (1) Coverage Results" MODIFIED="1428359715986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_one_even_number__enums_exercises.coverage" NAME="test_not_one_even_number: enums-exercises Coverage Results" MODIFIED="1428439934541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_words_ending_in_ing__enums_exercises.coverage" NAME="test_remove_words_ending_in_ing: enums-exercises Coverage Results" MODIFIED="1428364837905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_capitalize_keywords_in_phrase_one_fish_two_fish_red_fish_blue_fish__enums_exercises.coverage" NAME="test_capitalize_keywords_in_phrase_one_fish_two_fish_red_fish_blue_fish: enums-exercises Coverage Results" MODIFIED="1428525103907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_words_with_more_than_three_letters__enums_exercises__1_.coverage" NAME="test_pick_words_with_more_than_three_letters: enums-exercises (1) Coverage Results" MODIFIED="1428362865714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_all_4_letter_words__enums_exercises__1_.coverage" NAME="test_all_4_letter_words: enums-exercises (1) Coverage Results" MODIFIED="1428360417653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_even_numbers__enums_exercises__1_.coverage" NAME="test_count_even_numbers: enums-exercises (1) Coverage Results" MODIFIED="1428501749222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_words_containing_e__enums_exercises__1_.coverage" NAME="test_remove_words_containing_e: enums-exercises (1) Coverage Results" MODIFIED="1428365017269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_find_first_even_number__enums_exercises.coverage" NAME="test_find_first_even_number: enums-exercises Coverage Results" MODIFIED="1428443924884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_group_words_by_length__enums_exercises.coverage" NAME="test_group_words_by_length: enums-exercises Coverage Results" MODIFIED="1428440237603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_colors__enums_exercises.coverage" NAME="test_colors: enums-exercises Coverage Results" MODIFIED="1428526064768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_one_even_number__enums_exercises__1_.coverage" NAME="test_not_one_even_number: enums-exercises (1) Coverage Results" MODIFIED="1428439983082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_double_negative__enums_exercises__1_.coverage" NAME="test_double_negative: enums-exercises (1) Coverage Results" MODIFIED="1428437590617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_no_monkeys__enums_exercises__1_.coverage" NAME="test_no_monkeys: enums-exercises (1) Coverage Results" MODIFIED="1428436949690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
@@ -98,62 +141,90 @@
     <SUITE FILE_PATH="coverage/enums-exercises@test_words_with_no_vowels__enums_exercises__1_.coverage" NAME="test_words_with_no_vowels: enums-exercises (1) Coverage Results" MODIFIED="1428361880831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_capitalized_words__enums_exercises__1_.coverage" NAME="test_remove_capitalized_words: enums-exercises (1) Coverage Results" MODIFIED="1428368137852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@Run_test__map_pattern_test___enums_exercises.coverage" NAME="Run test 'map_pattern_test': enums-exercises Coverage Results" MODIFIED="1428360472441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_equivalent_dna_sequences__enums_exercises__1_.coverage" NAME="test_equivalent_dna_sequences: enums-exercises (1) Coverage Results" MODIFIED="1428526165689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_even_numbers__enums_exercises.coverage" NAME="test_count_even_numbers: enums-exercises Coverage Results" MODIFIED="1428501593040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_floats__enums_exercises.coverage" NAME="test_remove_floats: enums-exercises Coverage Results" MODIFIED="1428367819532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_four_letter_words__enums_exercises.coverage" NAME="test_count_four_letter_words: enums-exercises Coverage Results" MODIFIED="1428502151214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_odd_numbers__enums_exercises__1_.coverage" NAME="test_pick_odd_numbers: enums-exercises (1) Coverage Results" MODIFIED="1428362638537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@Run_test__all_test___enums_exercises.coverage" NAME="Run test 'all_test': enums-exercises Coverage Results" MODIFIED="1428330325497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_sort_by_proximity_to_ten__enums_exercises.coverage" NAME="test_sort_by_proximity_to_ten: enums-exercises Coverage Results" MODIFIED="1428521805000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_words_ending_in_ing__enums_exercises.coverage" NAME="test_pick_words_ending_in_ing: enums-exercises Coverage Results" MODIFIED="1428363370223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_even_one_ring__enums_exercises__1_.coverage" NAME="test_not_even_one_ring: enums-exercises (1) Coverage Results" MODIFIED="1428438823639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_group_words_by_uniqueness__enums_exercises.coverage" NAME="test_group_words_by_uniqueness: enums-exercises Coverage Results" MODIFIED="1428442148553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_no_waldo__enums_exercises__1_.coverage" NAME="test_no_waldo: enums-exercises (1) Coverage Results" MODIFIED="1428443131314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_capitalized_words__enums_exercises.coverage" NAME="test_remove_capitalized_words: enums-exercises Coverage Results" MODIFIED="1428367612988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_words_ending_in_e__enums_exercises__1_.coverage" NAME="test_remove_words_ending_in_e: enums-exercises (1) Coverage Results" MODIFIED="1428364600441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_one_double_digit_number__enums_exercises__1_.coverage" NAME="test_one_double_digit_number: enums-exercises (1) Coverage Results" MODIFIED="1428439865093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_numbers_greater_than_17__enums_exercises__1_.coverage" NAME="test_count_numbers_greater_than_17: enums-exercises (1) Coverage Results" MODIFIED="1428501213548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_all_gone__enums_exercises.coverage" NAME="test_not_all_gone: enums-exercises Coverage Results" MODIFIED="1428329237523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_round_prices__enums_exercises.coverage" NAME="test_count_round_prices: enums-exercises Coverage Results" MODIFIED="1428502043038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_backwards__enums_exercises.coverage" NAME="test_backwards: enums-exercises Coverage Results" MODIFIED="1428361643981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_words_with_three_letters__enums_exercises.coverage" NAME="test_pick_words_with_three_letters: enums-exercises Coverage Results" MODIFIED="1428362783197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_one_time__enums_exercises.coverage" NAME="test_one_time: enums-exercises Coverage Results" MODIFIED="1428439585835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_just_one_ring__enums_exercises__1_.coverage" NAME="test_not_just_one_ring: enums-exercises (1) Coverage Results" MODIFIED="1428439147616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_find_first_word_starting_with_q__enums_exercises.coverage" NAME="test_find_first_word_starting_with_q: enums-exercises Coverage Results" MODIFIED="1428448620795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_group_by_order_of_magnitude__enums_exercises__1_.coverage" NAME="test_group_by_order_of_magnitude: enums-exercises (1) Coverage Results" MODIFIED="1428442922048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_four_letter_words__enums_exercises__1_.coverage" NAME="test_count_four_letter_words: enums-exercises (1) Coverage Results" MODIFIED="1428502254116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_colors__enums_exercises__1_.coverage" NAME="test_colors: enums-exercises (1) Coverage Results" MODIFIED="1428526214756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_words_ending_in_ing__enums_exercises__1_.coverage" NAME="test_remove_words_ending_in_ing: enums-exercises (1) Coverage Results" MODIFIED="1428364916484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_words_ending_in_e__enums_exercises__1_.coverage" NAME="test_pick_words_ending_in_e: enums-exercises (1) Coverage Results" MODIFIED="1428363213974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_no_multiples_of_five__enums_exercises.coverage" NAME="test_no_multiples_of_five: enums-exercises Coverage Results" MODIFIED="1428437105636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_animals_starting_with_vowels__enums_exercises.coverage" NAME="test_remove_animals_starting_with_vowels: enums-exercises Coverage Results" MODIFIED="1428367513077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_subtract_smallest_values_from_100__enums_exercises.coverage" NAME="test_subtract_smallest_values_from_100: enums-exercises Coverage Results" MODIFIED="1428525297302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_group_by_number_of_zeros__enums_exercises.coverage" NAME="test_group_by_number_of_zeros: enums-exercises Coverage Results" MODIFIED="1428442618818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_all_zeros__enums_exercises.coverage" NAME="test_all_zeros: enums-exercises Coverage Results" MODIFIED="1428328504100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_words_with_three_letters__enums_exercises__1_.coverage" NAME="test_pick_words_with_three_letters: enums-exercises (1) Coverage Results" MODIFIED="1428362747170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_all_empty__enums_exercises.coverage" NAME="test_not_all_empty: enums-exercises Coverage Results" MODIFIED="1428330251123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_no_alices__enums_exercises__1_.coverage" NAME="test_no_alices: enums-exercises (1) Coverage Results" MODIFIED="1428436650519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_numbers_greater_than_17__enums_exercises.coverage" NAME="test_count_numbers_greater_than_17: enums-exercises Coverage Results" MODIFIED="1428501125582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_numbers_divisible_by_3__enums_exercises.coverage" NAME="test_remove_numbers_divisible_by_3: enums-exercises Coverage Results" MODIFIED="1428364304465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_sort_by_number_of_cents__enums_exercises.coverage" NAME="test_sort_by_number_of_cents: enums-exercises Coverage Results" MODIFIED="1428523596426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_dinosaurs__enums_exercises__1_.coverage" NAME="test_pick_dinosaurs: enums-exercises (1) Coverage Results" MODIFIED="1428363664300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_arrays__enums_exercises.coverage" NAME="test_remove_arrays: enums-exercises Coverage Results" MODIFIED="1428368186347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_find_13__enums_exercises__1_.coverage" NAME="test_find_13: enums-exercises (1) Coverage Results" MODIFIED="1428443701387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_just_one_ring__enums_exercises.coverage" NAME="test_not_just_one_ring: enums-exercises Coverage Results" MODIFIED="1428439097913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_all_gone__enums_exercises__1_.coverage" NAME="test_not_all_gone: enums-exercises (1) Coverage Results" MODIFIED="1428329808502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_doubles__enums_exercises__1_.coverage" NAME="test_doubles: enums-exercises (1) Coverage Results" MODIFIED="1428360629359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_hashes__enums_exercises__1_.coverage" NAME="test_remove_hashes: enums-exercises (1) Coverage Results" MODIFIED="1428368341982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_all_4_letter_words__enums_exercises.coverage" NAME="test_all_4_letter_words: enums-exercises Coverage Results" MODIFIED="1428360357785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_sort_by_distance__enums_exercises__1_.coverage" NAME="test_sort_by_distance: enums-exercises (1) Coverage Results" MODIFIED="1428503185490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_has_a_multi_word_phrase__enums_exercises__1_.coverage" NAME="test_has_a_multi_word_phrase: enums-exercises (1) Coverage Results" MODIFIED="1428436800965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_lottery_tickets__enums_exercises.coverage" NAME="test_lottery_tickets: enums-exercises Coverage Results" MODIFIED="1428525751278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_has_a_multi_word_phrase__enums_exercises.coverage" NAME="test_has_a_multi_word_phrase: enums-exercises Coverage Results" MODIFIED="1428436473837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_group_words_by_uniqueness__enums_exercises__1_.coverage" NAME="test_group_words_by_uniqueness: enums-exercises (1) Coverage Results" MODIFIED="1428442214694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_find_first_word_ending_with_er__enums_exercises.coverage" NAME="test_find_first_word_ending_with_er: enums-exercises Coverage Results" MODIFIED="1428448827329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_floats__enums_exercises__1_.coverage" NAME="test_pick_floats: enums-exercises (1) Coverage Results" MODIFIED="1428363761560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_none_even__enums_exercises.coverage" NAME="test_none_even: enums-exercises Coverage Results" MODIFIED="1428438343723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_not_all_empty__enums_exercises__1_.coverage" NAME="test_not_all_empty: enums-exercises (1) Coverage Results" MODIFIED="1428359074934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_all_gone__enums_exercises.coverage" NAME="test_all_gone: enums-exercises Coverage Results" MODIFIED="1428328854497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_words_that_are_uppercase__enums_exercises.coverage" NAME="test_count_words_that_are_uppercase: enums-exercises Coverage Results" MODIFIED="1428501317276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_group_by_order_of_magnitude__enums_exercises.coverage" NAME="test_group_by_order_of_magnitude: enums-exercises Coverage Results" MODIFIED="1428442863601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_all_multiples_of_7__enums_exercises__1_.coverage" NAME="test_all_multiples_of_7: enums-exercises (1) Coverage Results" MODIFIED="1428359820095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_double_negative__enums_exercises.coverage" NAME="test_double_negative: enums-exercises Coverage Results" MODIFIED="1428437523717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_one_or_more_shall_pass__enums_exercises.coverage" NAME="test_one_or_more_shall_pass: enums-exercises Coverage Results" MODIFIED="1428438086450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_lengths__enums_exercises.coverage" NAME="test_lengths: enums-exercises Coverage Results" MODIFIED="1428361055722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_solitaire__enums_exercises__1_.coverage" NAME="test_solitaire: enums-exercises (1) Coverage Results" MODIFIED="1428526189482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_count_multiples_of_5__enums_exercises.coverage" NAME="test_count_multiples_of_5: enums-exercises Coverage Results" MODIFIED="1428501782580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_pick_words_containing_e__enums_exercises.coverage" NAME="test_pick_words_containing_e: enums-exercises Coverage Results" MODIFIED="1428363410367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@Run_test__OnePatternTest___enums_exercises.coverage" NAME="Run test 'OnePatternTest': enums-exercises Coverage Results" MODIFIED="1428438525305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_all_gone__enums_exercises__1_.coverage" NAME="test_all_gone: enums-exercises (1) Coverage Results" MODIFIED="1428329767895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_sort_alphabetically_by_last_letter__enums_exercises__1_.coverage" NAME="test_sort_alphabetically_by_last_letter: enums-exercises (1) Coverage Results" MODIFIED="1428502863061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@Run_test__map_test___enums_exercises.coverage" NAME="Run test 'map_test': enums-exercises Coverage Results" MODIFIED="1428360577327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_remove_numbers__enums_exercises__1_.coverage" NAME="test_remove_numbers: enums-exercises (1) Coverage Results" MODIFIED="1428367697569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
     <SUITE FILE_PATH="coverage/enums-exercises@test_squares__enums_exercises__1_.coverage" NAME="test_squares: enums-exercises (1) Coverage Results" MODIFIED="1428360984667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
+    <SUITE FILE_PATH="coverage/enums-exercises@test_find_first_word_starting_with_q__enums_exercises__1_.coverage" NAME="test_find_first_word_starting_with_q: enums-exercises (1) Coverage Results" MODIFIED="1428448759341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exercises" MODULE_NAME="enums-exercises" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -166,8 +237,8 @@
           <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-6.0333333" vertical-offset="2039" max-vertical-offset="2775">
-                  <caret line="148" column="27" selection-start-line="148" selection-start-column="27" selection-end-line="148" selection-end-column="27" />
+                <state vertical-scroll-proportion="-8.433333" vertical-offset="2207" max-vertical-offset="2775">
+                  <caret line="164" column="8" selection-start-line="164" selection-start-column="8" selection-end-line="164" selection-end-column="8" />
                   <folding />
                 </state>
               </provider>
@@ -176,21 +247,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="group_by_pattern_test.rb" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/exercises/group_by_pattern_test.rb">
+          <file leaf-file-name="zip_pattern_test.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/exercises/zip_pattern_test.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.67391306" vertical-offset="497" max-vertical-offset="1095">
-                  <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+                <state vertical-scroll-proportion="0.82591873" vertical-offset="503" max-vertical-offset="1095">
+                  <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="group_by_problem.rb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/lib/generator/group_by_problem.rb">
+          <file leaf-file-name="array.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$APPLICATION_HOME_DIR$/rubystubs193/array.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="960">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="21645">
+                  <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -200,11 +271,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="group_by_test.rb" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/exercises/group_by_test.rb">
+          <file leaf-file-name="zip_test.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/exercises/zip_test.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.72408026" vertical-offset="272" max-vertical-offset="885">
-                  <caret line="47" column="57" selection-start-line="47" selection-start-column="57" selection-end-line="47" selection-end-column="57" />
+                <state vertical-scroll-proportion="0.7098646" vertical-offset="293" max-vertical-offset="825">
+                  <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
                   <folding />
                 </state>
               </provider>
@@ -236,6 +307,16 @@
         <option value="$PROJECT_DIR$/exercises/one_test.rb" />
         <option value="$PROJECT_DIR$/exercises/group_by_pattern_test.rb" />
         <option value="$PROJECT_DIR$/exercises/group_by_test.rb" />
+        <option value="$PROJECT_DIR$/exercises/find_pattern_test.rb" />
+        <option value="$PROJECT_DIR$/exercises/find_test.rb" />
+        <option value="$PROJECT_DIR$/exercises/count_pattern_test.rb" />
+        <option value="$PROJECT_DIR$/exercises/count_test.rb" />
+        <option value="$PROJECT_DIR$/exercises/sort_by_test.rb" />
+        <option value="$PROJECT_DIR$/exercises/sort_by_pattern_test.rb" />
+        <option value="$PROJECT_DIR$/exercises/reduce_pattern_test.rb" />
+        <option value="$PROJECT_DIR$/exercises/reduce_test.rb" />
+        <option value="$PROJECT_DIR$/exercises/zip_pattern_test.rb" />
+        <option value="$PROJECT_DIR$/exercises/zip_test.rb" />
       </list>
     </option>
   </component>
@@ -347,8 +428,8 @@
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.test_group_by_order_of_magnitude: enums-exercises (1)">
-    <configuration default="false" name="test_group_words_by_uniqueness: enums-exercises (1)" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+  <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.test_colors: enums-exercises (1)">
+    <configuration default="false" name="test_menu: enums-exercises (1)" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="enums-exercises" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -368,9 +449,9 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/exercises/group_by_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/exercises/zip_test.rb" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_group_words_by_uniqueness" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_menu" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
@@ -380,7 +461,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="test_group_by_number_of_zeros: enums-exercises" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+    <configuration default="false" name="test_lottery_tickets: enums-exercises (1)" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="enums-exercises" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -400,9 +481,9 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/exercises/group_by_pattern_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/exercises/zip_test.rb" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_group_by_number_of_zeros" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_lottery_tickets" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
@@ -412,7 +493,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="test_group_by_number_of_zeros: enums-exercises (1)" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+    <configuration default="false" name="test_equivalent_dna_sequences: enums-exercises (1)" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="enums-exercises" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -432,9 +513,9 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/exercises/group_by_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/exercises/zip_test.rb" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_group_by_number_of_zeros" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_equivalent_dna_sequences" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
@@ -444,7 +525,7 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="test_group_by_order_of_magnitude: enums-exercises" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+    <configuration default="false" name="test_solitaire: enums-exercises (1)" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="enums-exercises" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -464,21 +545,19 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/exercises/group_by_pattern_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/exercises/zip_test.rb" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_group_by_order_of_magnitude" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_solitaire" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
-      <RunnerSettings RunnerId="RubyDebugRunner" />
       <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="test_group_by_order_of_magnitude: enums-exercises (1)" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+    <configuration default="false" name="test_colors: enums-exercises (1)" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="enums-exercises" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -498,9 +577,9 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/exercises/group_by_test.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/exercises/zip_test.rb" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
-      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_group_by_order_of_magnitude" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="test_colors" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_METHOD" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
@@ -551,19 +630,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_group_words_by_uniqueness: enums-exercises (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_group_by_number_of_zeros: enums-exercises" />
-      <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_group_by_number_of_zeros: enums-exercises (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_group_by_order_of_magnitude: enums-exercises" />
-      <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_group_by_order_of_magnitude: enums-exercises (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_menu: enums-exercises (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_lottery_tickets: enums-exercises (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_equivalent_dna_sequences: enums-exercises (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_solitaire: enums-exercises (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_colors: enums-exercises (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_group_by_order_of_magnitude: enums-exercises (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_group_by_order_of_magnitude: enums-exercises" />
-        <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_group_by_number_of_zeros: enums-exercises (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_group_by_number_of_zeros: enums-exercises" />
-        <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_group_words_by_uniqueness: enums-exercises (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_colors: enums-exercises (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_solitaire: enums-exercises (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_equivalent_dna_sequences: enums-exercises (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_lottery_tickets: enums-exercises (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.test_menu: enums-exercises (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -596,7 +675,7 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45006165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24892704" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -607,7 +686,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24892704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964234" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22428748" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32465923" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -793,22 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generator/reduce_problem.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.15050167" vertical-offset="90" max-vertical-offset="1020">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/reduce_test.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/one_pattern_test.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="497" max-vertical-offset="1095">
@@ -823,17 +886,6 @@
           <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0333333" vertical-offset="2039" max-vertical-offset="2775">
-          <caret line="148" column="27" selection-start-line="148" selection-start-column="27" selection-end-line="148" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/generator/group_by_problem.rb">
@@ -854,8 +906,139 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercises/group_by_test.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72408026" vertical-offset="272" max-vertical-offset="885">
-          <caret line="47" column="57" selection-start-line="47" selection-start-column="57" selection-end-line="47" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="885">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generator/find_problem.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="377" max-vertical-offset="1260">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/find_pattern_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="992" max-vertical-offset="1620">
+          <caret line="97" column="72" selection-start-line="97" selection-start-column="72" selection-end-line="97" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/find_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="512" max-vertical-offset="1155">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generator/count_problem.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/count_pattern_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7993311" vertical-offset="587" max-vertical-offset="1275">
+          <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/count_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="362" max-vertical-offset="975">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generator/sort_by_problem.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/sort_by_pattern_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="743" max-vertical-offset="1365">
+          <caret line="80" column="55" selection-start-line="80" selection-start-column="55" selection-end-line="80" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generator/reduce_problem.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.17408124" vertical-offset="90" max-vertical-offset="1020">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/sort_by_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="263" max-vertical-offset="795">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/reduce_pattern_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73887813" vertical-offset="503" max-vertical-offset="1050">
+          <caret line="59" column="43" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/reduce_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="413" max-vertical-offset="945">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs193/array.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="21645">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.433333" vertical-offset="2207" max-vertical-offset="2775">
+          <caret line="164" column="8" selection-start-line="164" selection-start-column="8" selection-end-line="164" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/zip_pattern_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82591873" vertical-offset="503" max-vertical-offset="1095">
+          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/zip_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7098646" vertical-offset="293" max-vertical-offset="825">
+          <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
           <folding />
         </state>
       </provider>
